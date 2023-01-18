@@ -184,7 +184,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@linkedin](https://www.linkedin.com/in/uwanyirigira-marius-872964245/)- uwmarius@gmail.com
+Marius UWANYIRIGIRA - [@linkedin](https://www.linkedin.com/in/uwanyirigira-marius-872964245/)- uwmarius@gmail.com
 
 
 
